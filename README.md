@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joduyemi
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning python, java, javascript, c++
+- 👀 I’m interested in security and DevOps
+- 🌱 I work with Python, C, Haskell and Rust
 - 💞️ I’m looking to collaborate on - n/a (for now)
 - 📫 How to reach me - n/a (for now)
 
